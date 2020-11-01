@@ -3,6 +3,10 @@ A python websearcher using Selenium
 
 This program uses selenium to srap search results from search engines.
 
+## Update
+
+The google and duckduckgo grabbers do not work anymore, but the bing one works. I am working on a fix.
+
 ## Requirments
 
 Python3
